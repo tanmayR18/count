@@ -9,7 +9,7 @@ https://github.com/tanmayR18/counter-app/assets/135257857/24f526db-c7fa-4b14-b8f
 
 ## Tech Stack
 
-**Client:** Html, CSS and Javascript 
+**Client:** Html, Tailwind CSS and Javascript 
 
 **Server:** None
 
