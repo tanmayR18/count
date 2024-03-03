@@ -32,4 +32,4 @@ Click on the link given below or follow the instrucations given below to run the
 
 ## Live Link
 
-https://thriving-narwhal-9c2c78.netlify.app
+https://counter-18.netlify.app/
